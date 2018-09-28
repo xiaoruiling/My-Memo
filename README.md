@@ -2,4 +2,4 @@
 
 # 我的零零散散的记录
 
-包含 sell 、paython、等
+包含 sell 、python、RxSwift 等
