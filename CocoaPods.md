@@ -33,3 +33,7 @@ Podfile.lock文件中的每个pod写入已安装的版本. 此文件跟踪每个
 4. **搜索依赖库**: ``` pod search xxxx ```
 5. 
 
+# cocoapods [知识点](http://guides.cocoapods.org/syntax/podfile.html)
+
+1. cocoapods 路径 ```~/.cocoapods```， 可以通过```du -sh *``` 查看文件大小
+
