@@ -36,4 +36,10 @@ Podfile.lock文件中的每个pod写入已安装的版本. 此文件跟踪每个
 # cocoapods [知识点](http://guides.cocoapods.org/syntax/podfile.html)
 
 1. cocoapods 路径 ```~/.cocoapods```， 可以通过```du -sh *``` 查看文件大小
+2. 
+
+# 已有的项目变为cocoapods 项目
+
+1. 在terminal 里面 ```pod init``` 创建Podfile 文件
+2. 
 
