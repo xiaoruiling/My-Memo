@@ -43,6 +43,9 @@ Podfile.lock文件中的每个pod写入已安装的版本. 此文件跟踪每个
 1. 在terminal 里面 ```pod init``` 创建Podfile 文件
 2. 
 
+# 本地私有库
+1. pod spec create 库名 : xxx.podspec 文件，因为pod install 会去找这个文件
+2. 
 # 命令
 1. git cherry-pick <commit 号> 只merge 部分的commit而不用直接把整个分支merge过来
 
