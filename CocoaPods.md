@@ -49,3 +49,5 @@ Podfile.lock文件中的每个pod写入已安装的版本. 此文件跟踪每个
 # 命令
 1. git cherry-pick <commit 号> 只merge 部分的commit而不用直接把整个分支merge过来
 
+# 单独的Framework, pod 之后 Xcode 10 中这个info已经在内部做过什么处理，所以在这个地方不需要再进行copy Target -> Bulid Phares ->complie sources 中引入了
+
